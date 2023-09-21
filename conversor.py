@@ -1,8 +1,8 @@
 from PIL import Image
 import os
 
-pasta_entrada = "C:/Users/User/Desktop/carros/novos_fiat"
-pasta_saida = "C:/Users/User/Desktop/carros/novos_convertidos"
+pasta_entrada = "C:/Users/User/Desktop/carros/pasta_entrada"
+pasta_saida = "C:/Users/User/Desktop/carros/pasta_saida"
 formato_destino = "JPEG"
 nova_largura = 1000
 nova_altura = 1000
